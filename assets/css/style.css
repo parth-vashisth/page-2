@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1140px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+}
+
+.col-8 {
+    width: 66.66%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.heading {
+    /* width: 700px; */
+    /* height: 104px; */
+    font-family: "DM Sans", sans-serif;
+    font-size: 44px;
+    line-height: 52px;
+    text-align: left;
+    color: #1E0E62;
+    font-weight: 700;
+    /* margin-top: 40px; */
+}
+
+.date {
+    font-family: "DM Sans", sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #15143966;
+}
+
+.sound {
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: left;
+    color: #1E0E62;
+    margin-top: 20px;
+}
+
+.Perfect {
+    font-family: "DM Sans", sans-serif;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: left;
+    color: #1E0E62;
+    margin-top: 20px;
+}
+
+.method {
+    font-family: "DM Sans", sans-serif;
+    font-size: 17px;
+    line-height: 26px;
+    /* letter-spacing: 0px; */
+    text-align: left;
+    color: #15143966;
+    margin-top: 20px;
+}
+
+.sundri {
+    margin-top: 40px;
+}
+
+.col-4 {
+    width: 33.33%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: top;
+}
+
+.last {
+    font-family: "DM Sans", sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #15143966;
+    /* margin-top: 10px; */
+    margin-bottom: 20px;
+
+}
+
+.morning {
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #1E0E62;
+    margin-left: 15px;
+}
+
+.box {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.box-2 {
+    border: 2px solid #EBEAED;
+    width: 370px;
+    height: 186px;
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.news {
+    font-family: DM Sans;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #1E0E62;
+
+}
+
+.get {
+    font-family: DM Sans;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #15143966;
+}
+
+.email {
+    width: 220px;
+    height: 40px;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    border-radius: 30px;
+    border: 1px solid #15143966;
+    color: #15143966;
+    margin-top: 15px;
+    padding-left: 7px;
+}
+
+.Send {
+    width: 80px;
+    height: 40px;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    background: #25DAC5;
+    color: white;
+    border-radius: 50px;
+    border: none;
+}
+
+.load {
+    width: 130px;
+    height: 40px;
+    border-radius: 100px;
+    background: #E93A7D;
+    border: none;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
