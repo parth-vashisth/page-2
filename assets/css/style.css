@@ -26,18 +26,16 @@
     width: 66.66%;
     padding-left: 12px;
     padding-right: 12px;
+    margin-top: 40px;
 }
 
 .heading {
-    /* width: 700px; */
-    /* height: 104px; */
     font-family: "DM Sans", sans-serif;
     font-size: 44px;
     line-height: 52px;
     text-align: left;
     color: #1E0E62;
     font-weight: 700;
-    /* margin-top: 40px; */
 }
 
 .date {
@@ -71,7 +69,6 @@
     font-family: "DM Sans", sans-serif;
     font-size: 17px;
     line-height: 26px;
-    /* letter-spacing: 0px; */
     text-align: left;
     color: #15143966;
     margin-top: 20px;
@@ -83,8 +80,9 @@
 
 .col-4 {
     width: 33.33%;
-    padding-left: 12px;
+    padding-left: 30px;
     padding-right: 12px;
+    margin-top: 40px;
 }
 
 .d-flex {
@@ -99,7 +97,6 @@
     letter-spacing: 2px;
     text-align: left;
     color: #15143966;
-    /* margin-top: 10px; */
     margin-bottom: 20px;
 
 }
